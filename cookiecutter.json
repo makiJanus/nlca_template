@@ -3,6 +3,7 @@
     "description": "short description",
     "author_name": "Your Name",
     "email": "your.email@example.com",
+    "python_interpreter": "python3.9",
     "open_source_license": "MIT"
   }
   
